@@ -9,4 +9,4 @@
 C++ with OpenMP
 
 ## Compilation
-g++ filename.cpp -fopenmp -o filename
+g++ filename.cpp -fopenmp 
